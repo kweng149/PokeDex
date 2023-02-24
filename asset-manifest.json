@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PokeDex/static/css/main.dd1f2960.css",
+    "main.js": "/PokeDex/static/js/main.b4ccde65.js",
+    "static/media/loading.gif": "/PokeDex/static/media/loading.94cd27f15ba689bca6b0.gif",
+    "static/media/Dragon.png": "/PokeDex/static/media/Dragon.4ac922ff7b8335ac3e25.png",
+    "static/media/Dark.png": "/PokeDex/static/media/Dark.df757b2c2ce42d8f4adb.png",
+    "static/media/Bug.png": "/PokeDex/static/media/Bug.2682e66c7f430ea6071d.png",
+    "static/media/Electric.png": "/PokeDex/static/media/Electric.dbdcee818181c1ddd725.png",
+    "static/media/pokemonSolid.ttf": "/PokeDex/static/media/pokemonSolid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/PokeDex/index.html",
+    "main.dd1f2960.css.map": "/PokeDex/static/css/main.dd1f2960.css.map",
+    "main.b4ccde65.js.map": "/PokeDex/static/js/main.b4ccde65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1f2960.css",
+    "static/js/main.b4ccde65.js"
+  ]
+}
